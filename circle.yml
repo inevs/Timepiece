@@ -1,3 +1,6 @@
 machine:
+  environment:
+    XCODE_PROJECT: Timepiece.xcodeproj
+    XCODE_SCHEME: Timepiece
   xcode:
     version: "6.3.1"
